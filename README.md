@@ -17,7 +17,7 @@ Each example provides a visual demonstration of how these transformations work.
 [Watch the video demonstration](https://youtu.be/fUjgr5z7pt4?si=qqEWQ5y_KJmj1_DF)
 
 ## 🔗 Explore the Code
-[View on GitHub]()
+[View on GitHub](https://github.com/minakshi-141/transforming-with-css.git)
 
 Feel free to use this as inspiration for your own projects or reach out with any questions! 😊
 
